@@ -32,5 +32,5 @@ Explain how others can contribute to your project.
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE) - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the [MIT License](LICENSE) - see the [LICENSE](LICENSE) file for details.<br><br>
 This is licensed intelliJ IDEA! [http://jblicense.sit.kmutt.ac.th/]
