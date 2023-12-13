@@ -35,6 +35,7 @@ public class Container004 {
         for (Items004 item : items) {
             if (item == null) continue;
             result.concat(item.toString());
+            result.concat(", ");
         }
 
         return result;
